@@ -15,24 +15,24 @@ PostgreSQL como banco de dados.
 Gutendex API para buscar dados de livros.
 IntelliJ IDEA como IDE para desenvolvimento.
 
-🖥️ Funcionalidades do Sistema (via terminal)
+🖥️ Funcionalidades do Sistema (via terminal):
 
-1.Buscar livro pelo título
+1.Buscar livro pelo título:
 Consulta feita diretamente na API Gutendex.
 Dados do livro são salvos no banco de dados.
 Exemplo: "Dom Casmurro" e "Emma".
 
-2.Listar livros registrados
+2.Listar livros registrados:
 Exibe todos os livros salvos no banco.
 
-3.Listar autores
+3.Listar autores:
 Mostra os autores dos livros cadastrados.
 Inclui nome, data de nascimento e falecimento.
 
-4.Listar autores vivos em determinado ano
+4.Listar autores vivos em determinado ano:
 Retorna autores que estavam vivos no ano informado.
 
-5.Listar livros por idioma
+5.Listar livros por idioma:
 Busca livros cadastrados por idioma (PT, EN, ES, FR).
 Exemplo: "Dom Casmurro" aparece ao buscar por "PT".
 
